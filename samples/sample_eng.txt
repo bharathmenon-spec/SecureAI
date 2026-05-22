@@ -1,0 +1,18 @@
+INTERNAL - Engineering Notes: Project Falcon
+
+Project Falcon is the internal codename for the next-generation payments
+gateway. The integration relies on S/MIME to provide both integrity and
+confidentiality for message headers. S/MIME signs the headers so that any
+tampering can be detected, which guarantees integrity, and it encrypts the
+message body so that only the intended recipient can read it, which provides
+confidentiality.
+
+For SIP-based signaling, header integrity is protected by digitally signing the
+SIP headers, while S/MIME ensures the confidentiality of sensitive header
+fields by encrypting them. A receiver verifies the signature to confirm the
+headers were not altered in transit.
+
+The lead engineer on Project Falcon is Priya Nair (priya.nair@acme-corp.com).
+The service account key for the staging environment is
+sk-live-9f8d7a6b5c4e3d2f1a0b. Vendor work for the hardware security module is
+covered under contract CTR-2024-0091. This document is internal only.

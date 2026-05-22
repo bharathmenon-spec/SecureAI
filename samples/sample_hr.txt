@@ -1,0 +1,14 @@
+COMPANY CONFIDENTIAL - HR Employee Records
+
+Employee John Smith (EMP-98231) joined the People Operations team on 2023-04-12.
+His corporate email is john.smith@acme-corp.com and his contact number is
++1-415-555-0148. Current annual compensation is $142,000. Performance rating for
+the last cycle was "Exceeds Expectations".
+
+Employee Maria Garcia (EMP-77410) reports directly to John Smith. Her email is
+maria.garcia@acme-corp.com and her annual compensation is $128,500. Maria is
+enrolled in the leadership development program for 2024.
+
+Customer escalation contact for benefits queries is recorded under CUST-560192.
+This document is internal only and must not be distributed outside the HR
+department.
